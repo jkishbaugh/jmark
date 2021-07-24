@@ -1,0 +1,11 @@
+[package]
+name = "jmark"
+version = "0.1.0"
+authors = ["JM"]
+edition = "2018"
+description="a toy markdown compiler"
+homepage="http://jkishbaugh.com/jmark"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
